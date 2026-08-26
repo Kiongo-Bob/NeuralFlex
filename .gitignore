@@ -1,0 +1,115 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+# (uv.lock should generally be committed for apps — see note below)
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# uv
+# (uv.lock should generally be committed for apps — see note below)
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.sqlite3
+*.sqlite
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Alembic except alembic/versions/ — these should be committed
+
+# Jupyter (if used for exploration)
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+
+# Jupyter (if used for exploration)
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
